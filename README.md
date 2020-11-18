@@ -1,1 +1,1 @@
-**Example sample  for how can using face_recognition **
+**Example sample  for how can using face_recognition**
